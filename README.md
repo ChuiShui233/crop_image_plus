@@ -1,4 +1,4 @@
-# Crop Image
+# Crop Image Plus
 
 [![pub package](https://img.shields.io/pub/v/crop_image.svg)](https://pub.dev/packages/crop_image)
 
